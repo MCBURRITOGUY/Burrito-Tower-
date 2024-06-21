@@ -1,2 +1,3 @@
-# Burrito-Tower-
-a pizza tower fangame made in gdevelop
+# Burrito-Tower
+welcome to a pizza towe fangame that is made in gdevelop
+anyway just play the builds/demos and buh bye :)
